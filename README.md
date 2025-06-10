@@ -22,7 +22,7 @@
 ## 🛠️ Code
 
 <div align="center">
-  <img src="figures/method.png" width="100%">
+  <img src="figures/method.png" width="90%">
 </div>
 
 ### 🚀 Training ActiveKD
