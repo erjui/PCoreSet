@@ -6,7 +6,7 @@
   <img src="figures/concept.png" width="40%">
 </div>
 
-[Seongjae Kang](#), [Dong Bok Lee](#), [Hyungjoon Jang](#), [Dong Sup Kim](#), [Sung Ju Hwang](#)
+[Seongjae Kang](https://erjui.github.io/), [Dong Bok Lee](#), [Hyungjoon Jang](#), [Dong Sup Kim](#), [Sung Ju Hwang](#)
 
 [[Project Page](https://huggingface.co/papers/2506.00910)] [[Paper](https://arxiv.org/abs/2506.00910)]
 
@@ -121,14 +121,11 @@ CUDA_VISIBLE_DEVICES=1 python train_others.py \
 ## 📝 Citation
 
 ```bibtex
-@article{activekd,
-  author = {Kang, Seongjae and Lee, Dong Bok and Jang, Hyungjoon and Kim, Dong Sup and Hwang, Sung Ju},
-  title = {PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models},
-  journal = {arXiv preprint arXiv:2506.00910},
-  year = {2025},
-  eprint = {2506.00910},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.LG}
+@article{kang2025pcoreset,
+  title={PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models},
+  author={Kang, Seongjae and Lee, Dong Bok and Jang, Hyungjoon and Kim, Dongseop and Hwang, Sung Ju},
+  journal={arXiv preprint arXiv:2506.00910},
+  year={2025}
 }
 ```
 
