@@ -8,7 +8,7 @@
 
 [Seongjae Kang](#), [Dong Bok Lee](#), [Hyungjoon Jang](#), [Dong Sup Kim](#), [Sung Ju Hwang](#)
 
-[[Project Page](#)] [[Paper](https://arxiv.org/abs/2506.00910)]
+[[Project Page](https://huggingface.co/papers/2506.00910)] [[Paper](https://arxiv.org/abs/2506.00910)]
 
 - ✨ Introduces an **ActiveKD (PCoreSet)** framework for Active Learning under Knowledge Distillation
 - 🎯 Enables efficient knowledge transfer from Vision-Language Models to smaller student models
